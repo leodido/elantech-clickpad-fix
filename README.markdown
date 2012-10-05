@@ -12,19 +12,19 @@ Bugs fixed
 
 Install
 -------
-First thing: download this script to your desktop (or adapt the installation commands below).
+First thing: download this script.
 
-Then open a terminal and digit:
-    sudo cp /home/user/Desktop/elantech-ckickpad-fix.sh /usr/bin/
-    sudo chmod +x /usr/bin/elantech-ckickpad-fix.sh
+Assuming taht you've downloaded it in the `Download` folder, open a terminal and digit:
+`sudo chmod +x /Download/elantech-clickpad-fix/install.sh`
+Now we can install the fix:
+`./install`
 
-Remember to use the correct path using your `user`.
-
-Go into `System`
+Reboot the system.
 
 Notes
 -----
 The two-finger right-click will continue to work.
+Onche the installation has been done you can delete the downloaded folder.
 
 Limits / Future work
 --------------------
