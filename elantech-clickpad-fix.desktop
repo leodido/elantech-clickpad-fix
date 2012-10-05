@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Elantech Clickpad Fix
+Comment=Clickpad behaviour fixing
+Icon=clickpad
+Exec=elantech-clickpad-fix.sh
+Terminal=false
+Type=Application
+NoDisplay=False

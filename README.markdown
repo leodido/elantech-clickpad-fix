@@ -15,10 +15,12 @@ Install
 First thing: download this script to your desktop (or adapt the installation commands below).
 
 Then open a terminal and digit:
-	sudo cp /home/<user>/Desktop/elantech-ckickpad-fix.sh /usr/bin/
-	sudo chmod +x /usr/bin/elantech-ckickpad-fix.sh
+    sudo cp /home/user/Desktop/elantech-ckickpad-fix.sh /usr/bin/
+    sudo chmod +x /usr/bin/elantech-ckickpad-fix.sh
 
-...
+Remember to use the correct path using your `user`.
+
+Go into `System`
 
 Notes
 -----
