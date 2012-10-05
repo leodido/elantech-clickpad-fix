@@ -1,13 +1,4 @@
 #!/bin/bash
-### BEGIN INIT INFO
-# Provides:          elantech-clickpad-fix
-# Required-Start:    $remote_fs $syslog $named
-# Required-Stop:     $remote_fs $syslog $named
-# Default-Start:     2 3 4 5
-# Default-Stop:      0 1 6
-# Short-Description: Clickpad fixing for right and middle button areas
-# Description:       It extracts the id of the clickpad, then it enables the system to correctly recognize this clickpad and fix its right and middle click actions
-### END INIT INFO
 
 device=`xinput list "ETPS/2 Elantech Touchpad" | grep -o 'id=[0-9]\+' | egrep "[0-9]{1,}" -o`
 
