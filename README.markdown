@@ -29,12 +29,12 @@ Reboot the system.
 Notes
 -----
 The two-finger right-click will continue to work.
-Onche the installation has been done you can delete the downloaded folder.
+
+Once the installation has been done you can delete the downloaded folder.
 
 Limits / Future work
 --------------------
-This script works only with ETPS/2 Elantech Clickpad, to make it works with other clickpad devices you have to substitute the value of the `devicename` variable in the script with the exact name of your device.
-To find out the exact name of the device you have to execute in the terminal the xinput command.
+This script works only with ETPS/2 Elantech Clickpad, to make it works with other clickpad devices you have to substitute the value of the `devicename` variable in the script with the exact name of your device. To find out the exact name of the device you have to execute in the terminal the xinput command.
 
 Greeetings
 ----------
