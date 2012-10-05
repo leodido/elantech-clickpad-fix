@@ -24,6 +24,8 @@ Now we can install the fix:
 
 `./install`
 
+Alternatively, you can give execution permissions to `install.sh` right clicking it. So you can execute it simply double clicking it and selecting the execution option.
+
 Reboot the system.
 
 Notes
