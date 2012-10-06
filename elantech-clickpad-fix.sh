@@ -1,8 +1,6 @@
 #!/bin/bash
 
-devicename="ETPS/2 Elantech Touchpad"
-
-device=`xinput list $devicename | grep -o 'id=[0-9]\+' | egrep "[0-9]{1,}" -o`
+device=`xinput list "ETPS/2 Elantech Touchpad" | grep -o 'id=[0-9]\+' | egrep "[0-9]{1,}" -o`
 
 i=0
 while read label min delim max; do
