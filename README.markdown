@@ -18,7 +18,9 @@ Now we can proceed to the installation of the fix.
 
 Assuming that you've downloaded this repository in the `Download` folder, open a terminal and digit:
 
-`sudo chmod +x /Download/elantech-clickpad-fix/install.sh`
+`sudo chmod +x ~/Download/elantech-clickpad-fix/install.sh`
+
+`cd ~/Download/elantech-clickpad-fix/`
 
 Now we can install the fix:
 
