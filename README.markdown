@@ -40,6 +40,6 @@ Limits / Future work
 --------------------
 This script works only with ETPS/2 Elantech Clickpad, to make it works with other clickpad devices you have to substitute the value of the `devicename` variable in the script with the exact name of your device. To find out the exact name of the device you have to execute in the terminal the xinput command.
 
-Greeetings
+Greetings
 ----------
 This script is based on those published by [The Orange Notebook](http://www.theorangenotebook.com/2012/02/call-for-testing-clickpad.html) blog. Thank you!
