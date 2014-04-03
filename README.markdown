@@ -1,5 +1,5 @@
-ETPS/2 Elantech Clickpad Fix
-============================
+ETPS/2 Elantech Clickpad Fix [![Analytics](https://ga-beacon.appspot.com/UA-49657176-1/elantech-clickpad-fix)](https://github.com/igrigorik/ga-beacon)
+==============================
 
 It enables the ETPS/2 Elantech Clickpad on Ubuntu 12.04 and fixes the behaviour of right and middle soft buttons areas.
 
